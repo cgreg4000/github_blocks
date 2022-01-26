@@ -22,12 +22,13 @@ h1 {
     min-height: 240px;
     display: flex;
     align-items: center;
-    padding: 20px
+    padding: 20px;
+    justify-content: space-between;
+    margin-top: 20px;
 }
 
 #row1 {
     background-color: cadetblue;
-    justify-content: space-between;
 }
 
 #row2 {
@@ -37,7 +38,6 @@ h1 {
 
 #row3 {
     background-color: darkslategray;
-    justify-content: space-between;
 }
 
 img {
